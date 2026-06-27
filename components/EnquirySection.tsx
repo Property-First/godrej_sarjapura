@@ -87,7 +87,7 @@ const handleSubmit = async (
 
           <p className="text-xl mb-1">WhatsApp :</p>
           <a
-  href="https://wa.me/918050563570"
+  href="https://wa.me/918971140300?text=Hi%20I%20am%20interested%20in%20the%20Godrej%20Sarjapur%20project.%20Please%20share%20brochure,%20price%20details,%20floor%20plans,%20and%20site%20visit%20information."
   target="_blank"
   rel="noopener noreferrer"
   className="text-2xl block hover:text-green-400"
@@ -131,6 +131,7 @@ const handleSubmit = async (
             <input
               type="checkbox"
               className="mt-1"
+              checked
             />
             <span>
               I agree to the Terms & Conditions and Privacy Policy.

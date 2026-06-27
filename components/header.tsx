@@ -61,7 +61,7 @@ export function Header() {
     {/* Right Section */}
     <div className="hidden sm:flex items-center h-full border-gray-300 px-6">
       <Link href="tel:+918971140300" className="text-sm text-orange-600 font-medium">
-        +91 8050563570
+        +91 89711 40300
       </Link>
     </div>
 

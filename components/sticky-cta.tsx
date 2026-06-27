@@ -54,6 +54,13 @@ export function StickyCTA() {
 >
   <MessageCircle className="h-6 w-6" />
 </Link>
+<Link
+            href="tel:+918971140300"
+            className="bg-green-500 hover:bg-green-600 text-white text-[13px] p-3 rounded-full shadow-lg transition-colors"
+          >
+            <Phone className="h-5 w-5 mb-1" />
+            {/* <span className="text-xs">Call Us</span> */}
+          </Link>
       </div>
 
       <EnquiryPopup open={showPopup} onOpenChange={setShowPopup} />

@@ -145,6 +145,7 @@ export function EnquiryPopup({ open, onOpenChange }: EnquiryPopupProps) {
           type="checkbox"
           required
           className="mt-1 h-2 w-2"
+          checked
         />
 
         <p className="text-center text-[12px] text-gray-700">
